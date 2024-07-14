@@ -22,7 +22,7 @@ This project provided me with practical experience in using HTML and CSS to crea
 
 All images used in this project are sourced from Pixabay. Credits to the original creators are as follows:
 
-- **Header Image**: Image by Luong Pham from Pixabay
+- **Header Image**: Image by Alex Andrews from Pexels
 - **1st Image**: Image by Yakup Ipek from Pixabay
 - **2nd Image**: Image by Bianca Van Dijk from Pixabay
 - **3rd Image**: Image by Claire Francis from Pixabay
